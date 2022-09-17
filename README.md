@@ -2,7 +2,6 @@
 
 - 📚 Estudando JavaScript e Python
 - 💭 Desejo trabalhar com front-end em um futuro próximo
-- 😄 Pronouns: ela/dela
 ##
 
 <div><br>
