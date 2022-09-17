@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Nayra, prazer em te conhecer!
 
 - 📚 Estudando JavaScript e Python
-- 💭 Desejo trabalhar com front-end em um futuro breve
+- 💭 Desejo trabalhar com front-end em um futuro próximo
 - 😄 Pronouns: ela/dela
 
 <div>
