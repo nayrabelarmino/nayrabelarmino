@@ -3,11 +3,12 @@
 - 📚 Estudando JavaScript e Python
 - 💭 Desejo trabalhar com front-end em um futuro próximo
 - 😄 Pronouns: ela/dela
+##
 
-<div>
+<div><br>
   <a href="https://github.com/nayrabelarmino">
-  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=nayrabelarmino&show_icons=true&theme=dracula">
-  <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabelarmino&layout=compact&langs_count=7&theme=dracula">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nayrabelarmino&show_icons=true&theme=dracula">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabelarmino&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
