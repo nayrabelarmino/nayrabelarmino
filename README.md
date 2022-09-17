@@ -6,8 +6,8 @@
 
 <div><br>
   <a href="https://github.com/nayrabelarmino">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nayrabelarmino&show_icons=true&theme=dracula">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabelarmino&layout=compact&langs_count=7&theme=dracula">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nayrabelarmino&show_icons=true&theme=tokyonight">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabelarmino&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
