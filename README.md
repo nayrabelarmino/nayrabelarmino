@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! eu sou a Nayra Belarmino, prazer em te conhecer!
 
-<!--
-**nayrabelarmino/nayrabelarmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudando JavaScript e Python
+- 💭 Desejo trabalhar com front-end em um futuro breve
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/nayrabelarmino">
+  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=nayrabelarmino&show_icons=true&theme=dracula"/>
+  <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabelarmino&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nayra-js" height="30" width="40" src=""/>
+  <img align="center" alt="Nayra-python" height="30" width="40" src=""/>
+  <img align="center" alt="Nayra-html" height="30" width="40" src=""/>
+  <img align="right" alt="Nayra-css" height="30" width="40" src=""/>
+</div>
