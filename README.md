@@ -4,10 +4,10 @@
 <div align="center">
 <div style="display: inline_block">
   <a href="https://github.com/nayrabelarmino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayrabelarmino&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabelarmino&layout=compact&langs_count=7&theme=dracula">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=nayrabelarmino&show_icons=true&theme=dracula">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayrabelarmino&layout=compact&langs_count=7&theme=dracula">
 </div>
-
+</div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Nayra-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Nayra-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
