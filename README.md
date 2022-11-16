@@ -13,7 +13,7 @@
   <img align="center" alt="Nayra-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Nayra-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Nayra-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Nayra-gif" src="https://i.picasion.com/pic92/c1f9d0a3ae32ea1036e76172d512b297.gif">
+  <img align="right" alt="Nayra-gif" height="110" width="110" src="https://i.picasion.com/pic92/c1f9d0a3ae32ea1036e76172d512b297.gif">
 </div>
 
 ##
