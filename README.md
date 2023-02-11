@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Nayra, prazer em te conhecer!
 
-- 📚 Estudando JavaScript e Python
+- 📚 Estudando Análise e Desenvolvimento de Sistemas
 <div align="center">
 <div style="display: inline_block">
   <a href="https://github.com/nayrabelarmino">
