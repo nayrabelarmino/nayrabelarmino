@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Nayra, prazer em te conhecer!
 
-- 📚 Estudando Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na SPTech :)
 <div align="center">
 <div style="display: inline_block">
   <a href="https://github.com/nayrabelarmino">
