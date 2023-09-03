@@ -21,7 +21,4 @@
 <div>
 <a href="https://www.linkedin.com/in/nayrabelarmino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/nayra_belarmino/" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/nayrabelarmino/nayrabelarmino/blob/output/github-contribution-grid-snake.svg)
-
 </div>
