@@ -1,4 +1,4 @@
-## Olá! Eu sou a Nayra, prazer em te conhecer!
+## Olá! Eu sou a Nay, prazer em te conhecer!
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na SPTech :)
 <div align="center">
